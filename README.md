@@ -1,2 +1,2 @@
 # beanio-edi
-BeanIO extension to support parsing and writing of EDI texts
+BeanIO extension that converts POJOs to and from (WIP) an EDI 
